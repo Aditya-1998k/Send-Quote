@@ -6,7 +6,7 @@ from letter_format import letter_body
 load_dotenv()
 
 from_email = os.getenv("EMAIL")
-to_email = ["aditya98gupta@gmail.com", "gaditya@zeomega.com"]
+to_email = ["xxxxxxxxx@gmail.com", "yyyyyyyyyyy@gmail.com"]
 smtp_server = os.getenv("SMTP_SERVER")
 smtp_port = os.getenv("SMTP_PORT")
 smtp_username = os.getenv("SMTP_USERNAME")
